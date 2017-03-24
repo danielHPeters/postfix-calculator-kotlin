@@ -12,7 +12,7 @@ public class PostFixConverter {
     /**
      * Reference to the Scanner object
      */
-    private Scanner input;
+    private IInputFetcher input;
 
     /**
      * Container for the user submitted math expresseion.
@@ -34,7 +34,7 @@ public class PostFixConverter {
      * 
      * @param input 
      */
-    public PostFixConverter(Scanner input) {
+    public PostFixConverter(IInputFetcher input) {
 
         this.input = input;
 

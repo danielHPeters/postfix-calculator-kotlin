@@ -11,7 +11,7 @@ public class PostFixCalculator {
     /**
      * Scanner object for reading userinput from console
      */
-    private Scanner input;
+    private IInputFetcher input;
     
     /**
      * 
@@ -28,7 +28,7 @@ public class PostFixCalculator {
      */
     public PostFixCalculator(){
         
-        this.input = new Scanner(System.in);
+        this.input = new ConsoleInputFetcher();
         this.converter = new PostFixConverter(input);
         this.parser = new PostFixExpressionParser();
         
