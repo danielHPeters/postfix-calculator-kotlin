@@ -1,2 +1,2 @@
-# PostFixCalculator
-A command line postfix calculator in Java (Work in Progress).
+# postfix-calculator-kotlin
+A command line postfix calculator in kotlin (work in progress).
