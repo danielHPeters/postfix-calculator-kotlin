@@ -6,7 +6,7 @@ package ch.peters.daniel.postfixcalculator
  * @author Daniel Peters <daniel.peters.ch@ŋmail.com>
  * @version 1.0
  */
-class ConsoleMenu : IMenu {
+class ConsoleMenu : Menu {
   override fun display() {
     throw UnsupportedOperationException("Not supported yet.")
   }
