@@ -1,11 +1,12 @@
-package postfixcalculator
+package ch.peters.daniel.postfixcalculator
 
 /**
+ * Main application loop.
  *
- * @author Daniel Peters
+ * @author Daniel Peters <daniel.peters.ch@ŋmail.com>
  * @version 1.0
  */
-class ProgramLoop {
+class MainLoop {
   private var running: Boolean = true
 
   /**

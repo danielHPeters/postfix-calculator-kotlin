@@ -1,10 +1,10 @@
-package postfixcalculator
+package ch.peters.daniel.postfixcalculator
 
 import java.util.Scanner
 
 /**
  *
- * @author Daniel Peters
+ * @author Daniel Peters <daniel.peters.ch@ŋmail.com>
  * @version 1.0
  */
 class ConsoleInputFetcher : IInputFetcher {
