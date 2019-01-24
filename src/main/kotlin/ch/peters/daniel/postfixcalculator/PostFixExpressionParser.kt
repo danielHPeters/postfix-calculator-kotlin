@@ -1,9 +1,9 @@
 package ch.peters.daniel.postfixcalculator
 
 /**
- * Parser for postfix expressions
+ * Parser for postfix expressions.
  *
- * @author Daniel Peters <daniel.peters.ch@ŋmail.com>
+ * @author Daniel Peters
  * @version 1.0
  */
 class PostFixExpressionParser {

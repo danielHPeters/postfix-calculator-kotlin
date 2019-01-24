@@ -3,7 +3,7 @@ package ch.peters.daniel.postfixcalculator
 /**
  * Main application loop.
  *
- * @author Daniel Peters <daniel.peters.ch@ŋmail.com>
+ * @author Daniel Peters
  * @version 1.0
  */
 class MainLoop {

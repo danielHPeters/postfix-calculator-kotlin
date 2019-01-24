@@ -3,8 +3,9 @@ package ch.peters.daniel.postfixcalculator
 import java.util.Scanner
 
 /**
+ * Console implementation of the InputFetcher interface.
  *
- * @author Daniel Peters <daniel.peters.ch@ŋmail.com>
+ * @author Daniel Peters
  * @version 1.0
  */
 class ConsoleInputFetcher : InputFetcher {

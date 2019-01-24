@@ -1,9 +1,9 @@
 package ch.peters.daniel.postfixcalculator
 
 /**
- * Menu of the Postfix calculator.
+ * Console menu of the Postfix calculator.
  *
- * @author Daniel Peters <daniel.peters.ch@ŋmail.com>
+ * @author Daniel Peters
  * @version 1.0
  */
 class ConsoleMenu : Menu {

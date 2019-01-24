@@ -1,8 +1,9 @@
 package ch.peters.daniel.postfixcalculator
 
 /**
+ * Converts an expression.
  *
- * @author Daniel Peters <daniel.peters.ch@ŋmail.com>
+ * @author Daniel Peters
  * @version 1.0
  */
 class PostFixConverter {
